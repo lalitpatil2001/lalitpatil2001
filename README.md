@@ -56,8 +56,7 @@ Let's code, game, or discuss the latest AI breakthroughs over a cup of coffee â˜
 
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/lalit-patil-7908a7226
-[twitter]:
-[email]: <mailto: lalitpatil2001la@gmail.com>
 [instagram]: https://www.instagram.com/laukik__
-[telegram]:
+[linkedin]: https://www.linkedin.com/in/lalit-patil-7908a7226
+[email]: <mailto: lalitpatil2001la@gmail.com>
+
