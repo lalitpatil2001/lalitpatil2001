@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## MS in CS-AI at the [University of Southern California](https://www.usc.edu/)
+## BE in CSE at the [Savitribai Phule Pune University ](https://www.usc.edu/)
 
 - 👨‍💻 Interests: Data Science, Deep Learning, Computer Vision, and Flutter Development
 - 💪🏼 Grow and Inspire
