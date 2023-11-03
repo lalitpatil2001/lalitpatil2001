@@ -15,8 +15,9 @@
 Let's code, game, or discuss the latest AI breakthroughs over a cup of coffee â˜•
 
 [<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]
+[<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="active | Twitter" height="40px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
 
 <br/>
 <br/>
@@ -51,4 +52,5 @@ Let's code, game, or discuss the latest AI breakthroughs over a cup of coffee â˜
 [instagram]: https://www.instagram.com/laukik__
 [linkedin]: https://www.linkedin.com/in/lalit-patil-7908a7226
 [email]: <mailto: lalitpatil2001la@gmail.com>
+[twitter]:https://twitter.com/plalit0
 
