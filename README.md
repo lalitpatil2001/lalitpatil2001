@@ -57,5 +57,5 @@ Let's code, game, or discuss the latest AI breakthroughs over a cup of coffee â˜
 <br/>
 
 [instagram]: https://www.instagram.com/laukik__
-[linkedin]: https://www.linkedin.com/in/laukik-avhad-a2b0b6196/
-[email]: <mailto: laukik28avhad@gmail.com>
+[linkedin]: https://www.linkedin.com/in/lalit-patil-7908a7226
+[email]: <mailto: lalitpatil2001la@gmail.com>
