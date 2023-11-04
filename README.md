@@ -49,7 +49,7 @@ Let's code, game, or discuss the latest AI breakthroughs over a cup of coffee â˜
 
 <br/>
 
-[instagram]: https://www.instagram.com/laukik__
+[instagram]: https://www.instagram.com/lalit_patil1102/
 [linkedin]: https://www.linkedin.com/in/lalit-patil-7908a7226
 [email]: <mailto: lalitpatil2001la@gmail.com>
 [twitter]:https://twitter.com/plalit0
