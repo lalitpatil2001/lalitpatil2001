@@ -4,7 +4,7 @@
 
 ## BE in CSE at the [Savitribai Phule Pune University ](http://www.unipune.ac.in/)                              
 
-## A little about me . . .                                                ![](https://komarev.com/ghpvc/?username=lalitpatil2001&style=flat-square)
+## A little about me . . .                                               
 - ![](https://komarev.com/ghpvc/?username=lalitpatil2001&style=flat-square)
 - 👨‍💻 Interests: Data Science, Deep Learning, Computer Vision, and Flutter Development
 - 💪🏼 Grow and Inspire
