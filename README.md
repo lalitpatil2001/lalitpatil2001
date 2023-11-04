@@ -45,7 +45,7 @@ Let's code, game, or discuss the latest AI breakthroughs over a cup of coffee â˜
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Lalit&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laukikk&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
 
 <br/>
 
