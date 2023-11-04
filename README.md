@@ -2,13 +2,15 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## BE in CSE at the [Savitribai Phule Pune University ](http://www.unipune.ac.in/)
+## BE in CSE at the [Savitribai Phule Pune University ](http://www.unipune.ac.in/)                              
 
+## A little about me . . .                                                ![](https://komarev.com/ghpvc/?username=lalitpatil2001&style=flat-square)
+- ![](https://komarev.com/ghpvc/?username=lalitpatil2001&style=flat-square)
 - 👨‍💻 Interests: Data Science, Deep Learning, Computer Vision, and Flutter Development
 - 💪🏼 Grow and Inspire
-- ⚡ Hobbies: To seek knowledge, Listening Songs,Football, Cooking 
-- 🎮 Gaming: Valorant, Assassin's Creed, FIFA
-- 🚩 GitHub Campus Expert
+- 🌱 I’m currently learning python 🐍 
+- 📬 I'm currently trying to make my hands dirty in open source contribution
+- ⚡ Hobbies: To seek knowledge, Listening Songs,Football, Cooking  
 
 ---
 ### Connect with me 📝
